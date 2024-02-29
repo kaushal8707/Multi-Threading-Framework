@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Design-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../DataStructure/pom.xml" />
+        <option value="$PROJECT_DIR$/../Java_17_Features/pom.xml" />
+        <option value="$PROJECT_DIR$/../String-Arrays-Java8-Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/../Java-17-Features/pom.xml" />
+        <option value="$USER_HOME$/Downloads/grpc-with-springboot-master/grpc-with-springboot-master/proto/pom.xml" />
+        <option value="$USER_HOME$/Downloads/grpc-with-springboot-master/grpc-with-springboot-master/grpc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../gRPC/grpc-with-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../gRPC/grpc-with-springboot/grpc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../gRPC/grpc-with-springboot/client-service/pom.xml" />
+        <option value="$USER_HOME$/OneDrive - Persistent Systems Limited/Desktop/BeansScope-@LookUp/lookup-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/../JavaPassByValueOrByReference/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../Java_17_Features/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../gRPC/grpc-with-springboot/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
